@@ -1,3 +1,7 @@
+<!-- to update code in git -->
+<!-- git add .
+git commit -m "updated animation"
+git push -->
 <div align-item="center">
   <br />
     <a href="https://youtu.be/0fYi8SGA20k?feature=shared" target="_blank">

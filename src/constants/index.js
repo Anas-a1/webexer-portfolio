@@ -380,7 +380,7 @@ const projects = [
     category: "wordpress",
     gallery_images: [
       pctrockenbau_admin_pannel,
-      pctrockenbau_divi_pannel
+      pctrockenbau_divi_pannel,
     ]
   },
   {

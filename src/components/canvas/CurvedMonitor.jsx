@@ -5,7 +5,7 @@ import { OrbitControls, Preload, useGLTF } from "@react-three/drei";
 import CanvasLoader from "../Loader";
 
 const CurvedMonitor = ({ isMobile }) => {
-  const monitor = useGLTF("./desktop_pc/optimized.glb");
+  const monitor = useGLTF("./desktop_pc/scene.gltf");
 
   return (
     <mesh>

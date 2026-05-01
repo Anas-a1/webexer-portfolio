@@ -1,42 +1,42 @@
 import logo from "./logo.svg";
-import backend from "./backend.webp";
-import creator from "./creator.webp";
-import mobile from "./mobile.webp";
-import web from "./web.webp";
-import github from "./github.webp";
-import demo from "./demo.webp";
+import backend from "./backend.png";
+import creator from "./creator.png";
+import mobile from "./mobile.png";
+import web from "./web.png";
+import github from "./github.png";
+import demo from "./demo.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
-import css from "./tech/css.webp";
-import docker from "./tech/docker.webp";
-import figma from "./tech/figma.webp";
-import git from "./tech/git.webp";
-import html from "./tech/html.webp";
-import javascript from "./tech/javascript.webp";
-import mongodb from "./tech/mongodb.webp";
-import nodejs from "./tech/nodejs.webp";
-import reactjs from "./tech/reactjs.webp";
-import redux from "./tech/redux.webp";
-import tailwind from "./tech/tailwind.webp";
-import typescript from "./tech/typescript.webp";
+import css from "./tech/css.png";
+import docker from "./tech/docker.png";
+import figma from "./tech/figma.png";
+import git from "./tech/git.png";
+import html from "./tech/html.png";
+import javascript from "./tech/javascript.png";
+import mongodb from "./tech/mongodb.png";
+import nodejs from "./tech/nodejs.png";
+import reactjs from "./tech/reactjs.png";
+import redux from "./tech/redux.png";
+import tailwind from "./tech/tailwind.png";
+import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import gpt from "./company/gpt-3.webp";
-import mindco from "./company/mindsCO.webp";
-import Lanee from "./company/lanee.webp";
-import WordPress from "./company/wordpress.webp";
+import gpt from "./company/gpt-3.png";
+import mindco from "./company/mindsCO.png";
+import Lanee from "./company/lanee.png";
+import WordPress from "./company/wordpress.png";
 
 
 
 
-import event from "./event-manager.webp";
-import gptimg from "./GPT.webp";
-import imagefinder from "./ImageFinder.webp";
+import event from "./event-manager.png";
+import gptimg from "./GPT.png";
+import imagefinder from "./ImageFinder.jpg";
 
 import tylor from "./wp_thumnails/tylor_Glyde.webp";
 import pcTrouckenbau from "./wp_thumnails/pc_troukenbau.webp";
-import siny from "./wp_thumnails/sinyvisuals.webp";
+import siny from "./wp_thumnails/sinyvisuals.png";
 import pharma from "./wp_thumnails/pharma.webp";
 import comfy from "./wp_thumnails/comfy_heating_and_plumbing.webp";
 import myhealthbalance from "./wp_thumnails/myhealthbalance.webp";
@@ -45,7 +45,7 @@ import myhealthbalance from "./wp_thumnails/myhealthbalance.webp";
 import tailor_Glyde_admin_pannel from "./wp_projects_images/tailor_Glyde_admin_pannel.webp";
 import Tylor_Glyde_elementor_pannel from "./wp_projects_images/Tylor_Glyde_elementor_pannel.webp";
 import pctrockenbau_admin_pannel from "./wp_projects_images/pctrockenbau_admin_pannel.webp";
-import pctrockenbau_divi_pannel from "./wp_projects_images/pctrockenbau_divi_pannel.webp";
+import pctrockenbau_divi_pannel from "./wp_projects_images/pctrockenbau_divi_pannel.png";
 import sanuswellness_admin_panel from "./wp_projects_images/sanuswellness_admin_panel.webp";
 import sinyvisuals_admin_panel from "./wp_projects_images/sinyvisuals_admin_panel.webp";
 import pharma_1688_panel from "./wp_projects_images/pharma_1688_panel.webp";
